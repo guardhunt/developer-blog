@@ -1,24 +1,24 @@
 export const config = {
   // Your Github Converted Token To Know How To Get Your Token Look at Readme.md
-  githubConvertedToken: "MzM2N2YxZDRjNDk5MmQ4MGVjNzQwYmM5Y2FlZWYyNDE0ZGQ4NWFiYQ==",
+  githubConvertedToken: "Z2hwX0dVVzBpRGI2cnptTW9LRGNsNm0xa0xLTkl4aW1uRjJzM01Yaw==",
 
   // Your Github UserName
-  githubUserName: "saadpasta",
+  githubUserName: "guardhunt",
 
   // Your Github Repo Name Where You Have your issues as Blog
-  githubRepo: "react-blog-github",
+  githubRepo: "developer-blog",
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
   enableOAuth: true,
-  OAuthClientID: 'Iv1.9f40fd53257d4102',
-  OAuthSecret: 'cc3db76ffe9848c92d83172807eececa79f0eb22',
+  OAuthClientID: 'Iv1.7b6accccbf1496fd',
+  OAuthSecret: '3f29e672ff4471271b75e18810e5a10be20aaa6f',
 
   // Your Personal Blog Title
-  title : "Saad Pasta" ,
+  title : "Christopher Hunt" ,
 
   // Your Personal Blog Subtitle
-  subtitle : "Software Developer",
+  subtitle : "Make Your Data Work For You",
 
   // Header customization
   header: {
